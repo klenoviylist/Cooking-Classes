@@ -1,0 +1,60 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.failure {
+  text-align: center;
+  background-color: #F4F4F2;
+  height: 100%;
+}
+
+h1 {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 3rem;
+  color: #3C4241;
+  margin: 0;
+  padding: 40px 0;
+}
+
+p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.5rem;
+  line-height: 3rem;
+  color: #7E7474;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.btn {
+  font-family: 'Roboto Slab', serif;
+  color: #7E7474;
+  font-size: 1rem;
+  line-height: 2rem;
+  margin-bottom: 20px;
+  background-color: #E8E8E8;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px 40px;
+
+}
+
+.btn:hover {
+  background-color: #CFD3CE;
+}
+
+.sad {
+  text-align: center;
+  width: 10%;
+  height: 15%;
+  padding-top: 5%;
+  opacity: 70%;
+}
+
+footer, a {
+  font-family: 'Roboto Slab', serif;
+  color: #7E7474;
+  font-size: 0.5rem;
+  padding-top: 15%;
+}

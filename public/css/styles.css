@@ -1,0 +1,78 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Roboto Slab', serif;
+  color: #3C4241;
+}
+
+.bg {
+  height: 105%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcome {
+  text-align: center;
+  font-size: 5rem;
+  margin-top: 0;
+  margin-bottom: 5%;
+  font-family: 'Architects Daughter', cursive;
+  padding-top: 5%;
+}
+
+.signup {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.boxed {
+  border: 1px solid #707070;
+  background: rgba(210, 211, 201, 0.5);
+  margin-bottom: 5%;
+}
+
+.form-signup {
+  text-align: center;
+  width: 100%;
+  max-width: 330px;
+  padding: 15px 15px 0 15px;
+  margin: auto;
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #FCF8EC;
+  font-size: 1rem;
+  color: #7E7474;
+  box-sizing: border-box;
+}
+
+.btn {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #FCF8EC;
+  font-size: 1rem;
+  color: #7E7474;
+}
+
+.btn:hover {
+  background-color: #CFD3CE;
+}
+
+p {
+  margin-top: 25%;
+  font-size: 1.2rem;
+  color: #FCF8EC;
+}

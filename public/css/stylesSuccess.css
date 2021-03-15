@@ -1,0 +1,33 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Roboto Slab', serif;
+}
+
+.bg {
+  height: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.success {
+  text-align: center;
+  background-color: #F4F4F2;
+}
+
+h1 {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 3rem;
+  color: #3C4241;
+  margin: 0;
+  padding: 40px 0;
+}
+
+p {
+  font-size: 1.5rem;
+  line-height: 3rem;
+  color: #7E7474;
+  margin: 0;
+  padding-bottom: 20px;
+}
